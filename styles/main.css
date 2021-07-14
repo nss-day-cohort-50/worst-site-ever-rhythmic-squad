@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.sweets {
+    flex: 2;
+}
+
+.savories {
+    flex: 2;
+}
+
+.recipes {
+    flex: 1;
+}
+
