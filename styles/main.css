@@ -1,3 +1,7 @@
+@import url(sweets.css);
+@import url(savories.css);
+@import url(recipes.css);
+
 .container {
     display: flex;
 }
@@ -13,4 +17,5 @@
 .recipes {
     flex: 1;
 }
+
 
