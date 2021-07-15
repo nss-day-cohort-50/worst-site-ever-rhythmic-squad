@@ -1,6 +1,7 @@
 @import url(sweets.css);
 @import url(savories.css);
 @import url(recipes.css);
+@import url(footer.css);
 
 .container {
     display: flex;

@@ -1,0 +1,9 @@
+.reviews {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;
+    
+  }
+
+  footer {
+    background-color: rgb(4, 58, 27);
+  }
