@@ -1,0 +1,8 @@
+.sweet {
+    width: 20rem;
+}
+
+.sweet__picture img {
+    width: 100%;
+    height: auto;
+}
