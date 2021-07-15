@@ -18,6 +18,7 @@ body {
     flex: 2;
     background-color: chartreuse;
     margin: 2rem;
+    border: blue 10px dotted;
 }
 
 .savories {
