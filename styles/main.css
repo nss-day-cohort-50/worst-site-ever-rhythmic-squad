@@ -44,6 +44,7 @@ body {
     flex: 2;
     background-color: darkolivegreen;
     margin: 2rem;
+    border: 15px double purple;
 }
 
 .recipes {
