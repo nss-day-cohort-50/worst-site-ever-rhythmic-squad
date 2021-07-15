@@ -22,10 +22,12 @@ body {
 
 .bodyHeader p {
     font-size: 2rem;
+    transition: transform 0.2s;
 }
 
 .bodyHeader p:hover {
     color: blueviolet;
+    transform: scale(1.1);
 }
 .container {
     display: flex;
