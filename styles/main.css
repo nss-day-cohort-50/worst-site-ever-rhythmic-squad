@@ -37,12 +37,14 @@ body {
     flex: 2;
     background-color: chartreuse;
     margin: 2rem;
+    border: blue 10px dotted;
 }
 
 .savories {
     flex: 2;
     background-color: darkolivegreen;
     margin: 2rem;
+    border: 15px double purple;
 }
 
 .recipes {
