@@ -1,0 +1,21 @@
+.savoriesHeader {
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 48px;
+}
+
+.savoryHeader {
+    font-size: 30px;
+}
+
+.savory {
+    width: 30rem;
+    margin: 1rem;
+    padding: 2rem;
+}
+
+.savory__picture img {
+    max-width: 100%;
+    height: auto;
+}
