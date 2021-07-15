@@ -1,9 +1,11 @@
 .reviews {
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
     color: transparent;
-    
+    font-size: 120%;
+    font-weight: 999;
   }
 
   footer {
-    background-color: rgb(4, 58, 27);
+    background-color: rgb(5, 5, 5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
