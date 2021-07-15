@@ -1,0 +1,20 @@
+.aside {
+    background-color: #87986a;
+    text-align: left;
+    border: #432818 outset 5px;
+}
+
+.recipe__lapmray{
+    color: #370617;
+    font-family: monospace;
+}
+
+.recipe__vinegar{
+    color: #99582a;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.aside img{
+    max-width: 300px;
+    height: auto;
+}
